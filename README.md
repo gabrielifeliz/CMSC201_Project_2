@@ -5,6 +5,6 @@
 Topics:
 - Variables
 - Console Input/Output
-- Conditions (if-else, switch)
+- Conditions (```if```-```else```, ```switch```)
 
 Date of Completion: 02/04/2018
